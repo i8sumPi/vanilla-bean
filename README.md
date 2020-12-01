@@ -21,6 +21,11 @@ If, for some reason, you want to make this its own JavaScript file, include `van
 <script src="path/to/vanilla-bean.js"></script>
 <script src="other/javascript/files"></script>
 ```
+or use
+```html
+<script src="https://raw.githubusercontent.com/i8sumPi/vanilla-bean/main/vanilla-bean.js"></script>
+<script src="other/javascript/files"></script>
+```
 
 ## Customization
 If you want to rename the function, for example to `$`, use
